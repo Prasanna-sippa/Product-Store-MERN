@@ -1,6 +1,6 @@
 # Product-Store-MERN
 1. Implemented a Full-stack application using MERN stack.
-2. It is a Product Store where we we do the following operations:
+2. It is a Product Store where we we do the following operations:<br />
     a. Can see the available products <br />
     b. Add a product,<br />
     c. Edit a product<br />
